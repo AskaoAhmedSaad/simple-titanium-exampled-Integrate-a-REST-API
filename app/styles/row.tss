@@ -1,0 +1,32 @@
+"#icon":{
+	left: 0,
+	height: 50,
+	width: 50
+}
+
+"TableViewRow":{
+	layout: "horizontal"
+}
+ 
+
+"#article_image":{
+	// image: "/images/elkhabar.png",
+	left: 0,
+	height: '40dp',
+	width: '50dp',
+}
+
+"#article_title":{
+  left: '50dp',
+  right: '50dp',
+  height: Ti.UI.SIZE,
+	font: {
+		fontSize: '18dp'
+	}
+}
+
+"#article_pub_time":{
+	right: 0,
+	height: '50dp',
+	width: '50dp',
+}

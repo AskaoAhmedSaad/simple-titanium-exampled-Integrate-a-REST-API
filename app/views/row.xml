@@ -1,0 +1,7 @@
+<Alloy>
+	<TableViewRow id="showArticle">
+		<ImageView id="article_image"></ImageView>
+		<Label id="article_title"></Label>
+		<Label id="article_pub_time"></Label>
+	</TableViewRow>
+</Alloy>

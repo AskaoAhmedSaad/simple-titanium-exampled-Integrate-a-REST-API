@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<View layout='vertical'>
+			<Label id="article_title"/>
+			<Label id="article_pub_time_date"/>
+			<ImageView id="article_image"/>
+			<Label id="article_body"/>
+		</View>
+	</Window>
+</Alloy>

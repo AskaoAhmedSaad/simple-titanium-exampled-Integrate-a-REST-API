@@ -1,0 +1,11 @@
+<Alloy>
+	<Window title="الخبر">
+
+		<TableView id="table"></TableView>
+		<View id="navigationView" layout="horizontal">
+			<Button id="prevButton" onClick="ShowPrevArticles">السابق</Button>
+			<Button id="nextButton" onClick="ShowNextArticles">التالي</Button>
+		</View>
+
+	</Window>
+</Alloy>  
